@@ -10,6 +10,7 @@ that make Claude Code and Codex search for existing solutions before writing new
 hand work to each other and wake each other up. Open-sourcing it soon.
 
 **Recently merged**
+- [Automattic/harper#4991](https://github.com/Automattic/harper/pull/4991): skip conventional commit prefixes when linting commit messages
 - [vyncint/termlens#793](https://github.com/vyncint/termlens/pull/793): detect JSON screens after leading whitespace
 - [pymeasure/pymeasure#1595](https://github.com/pymeasure/pymeasure/pull/1595): clarify how to clone your fork
 
