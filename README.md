@@ -3,6 +3,9 @@
 I build small tools that help AI coding agents work together,
 and I send fixes to the open-source tools I use every day.
 
+**New:** [look-before-you-code](https://github.com/KemalG-u/look-before-you-code), a skill and a pre-write hook
+that make Claude Code and Codex search for existing solutions before writing new code.
+
 **Now:** a message box that lets Claude Code and Codex sessions
 hand work to each other and wake each other up. Open-sourcing it soon.
 
@@ -12,4 +15,5 @@ hand work to each other and wake each other up. Open-sourcing it soon.
 
 I'm based in Turkey and also work on Turkish language tools at KarıncaAI.
 
-I write code together with Claude Code and Codex, and I review and test every change before I send it.
+I build with Claude Code and Codex: I set the rules and make the calls, the agents write the code,
+and every change is tested before it goes out. Each project says exactly who did what in its AI-USE file.
