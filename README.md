@@ -6,6 +6,9 @@ and I send fixes to the open-source tools I use every day.
 **New:** [look-before-you-code](https://github.com/KemalG-u/look-before-you-code), a skill and a pre-write hook
 that make Claude Code and Codex search for existing solutions before writing new code.
 
+**New:** [prove-it-review](https://github.com/KemalG-u/prove-it-review), a skill and a reviewer subagent
+that make coding agents prove a delivery with fresh evidence before calling it done.
+
 **Now:** a message box that lets Claude Code and Codex sessions
 hand work to each other and wake each other up. Open-sourcing it soon.
 
