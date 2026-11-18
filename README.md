@@ -9,6 +9,9 @@ that make Claude Code and Codex search for existing solutions before writing new
 **New:** [prove-it-review](https://github.com/KemalG-u/prove-it-review), a skill and a reviewer subagent
 that make coding agents prove a delivery with fresh evidence before calling it done.
 
+**New:** [subagent-tiers](https://github.com/KemalG-u/subagent-tiers), reusable Claude Code agent definitions
+with a guide for matching work to evidence, risk and review needs.
+
 **Now:** a message box that lets Claude Code and Codex sessions
 hand work to each other and wake each other up. Open-sourcing it soon.
 
