@@ -25,12 +25,12 @@ that lets Claude Code and Codex sessions hand work to each other and wake each o
 
 ### Featured / Öne çıkanlar
 
+- [oss-ai-policy-check](https://github.com/KemalG-u/oss-ai-policy-check): Find a GitHub repository's AI contribution policy, with every line linked at a pinned commit. _Last activity: 2026-11-24._
+- [prove-it-review](https://github.com/KemalG-u/prove-it-review): Agent skill and reviewer subagent that make coding agents prove a delivery with fresh evidence before calling it done. _Last activity: 2026-11-24._
 - [signed-agent-mailbox](https://github.com/KemalG-u/signed-agent-mailbox): Durable, optionally HMAC-signed message box between Claude Code and Codex sessions. Python stdlib only. _Last activity: 2026-11-24._
 - [soz-agent-capsule](https://github.com/KemalG-u/soz-agent-capsule): Windows capsule and local server that runs a coding agent, verifies "done" with approved checks (evidence gate) and a rule-based guard. _Last activity: 2026-11-24._
-- [oss-ai-policy-check](https://github.com/KemalG-u/oss-ai-policy-check): Find a GitHub repository's AI contribution policy, with every line linked at a pinned commit. _Last activity: 2026-11-22._
+- [subagent-tiers](https://github.com/KemalG-u/subagent-tiers): Reusable Claude Code agent definitions with a guide for matching work to evidence, risk and review needs. _Last activity: 2026-11-24._
 - [look-before-you-code](https://github.com/KemalG-u/look-before-you-code): A skill and PreToolUse gate that makes AI coding agents (Claude Code, Codex) look for existing solutions before writing new code. _Last activity: 2026-11-18._
-- [prove-it-review](https://github.com/KemalG-u/prove-it-review): Agent skill and reviewer subagent that make coding agents prove a delivery with fresh evidence before calling it done. _Last activity: 2026-11-18._
-- [subagent-tiers](https://github.com/KemalG-u/subagent-tiers): Reusable Claude Code agent definitions with a guide for matching work to evidence, risk and review needs. _Last activity: 2026-11-18._
 
 ### Active development / Geliştiriliyor
 
