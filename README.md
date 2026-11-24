@@ -61,4 +61,4 @@ Plus 21 private projects (work in progress, client or personal). / Ayrıca 21 ö
 I'm based in Turkey and also work on Turkish language tools at KarıncaAI.
 
 I build with Claude Code and Codex: I set the rules and make the calls, the agents write the code,
-and every change is tested before it goes out. Each project says exactly who did what in its AI-USE file.
+and every change is tested before it goes out. Projects that carry an AI-USE file say exactly who did what.
