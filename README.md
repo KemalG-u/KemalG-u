@@ -3,9 +3,9 @@
 I build small tools that help AI coding agents work together,
 and I send fixes to the open-source tools I use every day.
 
-<!-- vitrin:urun:basla -->
+<!-- profil:urun:basla -->
 **New:** [oss-ai-policy-check](https://github.com/KemalG-u/oss-ai-policy-check), finds a GitHub repository's AI contribution policy, with every line linked at a pinned commit. Early release (0.3.1), on [PyPI](https://pypi.org/project/oss-ai-policy-check/).
-<!-- vitrin:urun:bitir -->
+<!-- profil:urun:bitir -->
 
 **New:** [look-before-you-code](https://github.com/KemalG-u/look-before-you-code), a skill and a pre-write hook
 that make Claude Code and Codex search for existing solutions before writing new code.
@@ -19,7 +19,7 @@ with a guide for matching work to evidence, risk and review needs.
 **New:** [signed-agent-mailbox](https://github.com/KemalG-u/signed-agent-mailbox), a durable, optionally HMAC-signed message box
 that lets Claude Code and Codex sessions hand work to each other and wake each other up. Python standard library only.
 
-<!-- vitrin:birlesen:basla -->
+<!-- profil:birlesen:basla -->
 **Recently merged**
 - [vyncint/termlens#796](https://github.com/vyncint/termlens/pull/796): fix(emu): list a `<`-marked CSI with the marker before its parameters
 - [cdklabs/cdk-from-cfn#1376](https://github.com/cdklabs/cdk-from-cfn/pull/1376): feat: add --name CLI option and deprecate --stack-name
@@ -28,7 +28,7 @@ that lets Claude Code and Codex sessions hand work to each other and wake each o
 - [vyncint/termlens#793](https://github.com/vyncint/termlens/pull/793): fix(cli): detect JSON screens after leading whitespace
 - [pymeasure/pymeasure#1595](https://github.com/pymeasure/pymeasure/pull/1595): Clarify how to clone your PyMeasure fork
 - [Automattic/harper#4991](https://github.com/Automattic/harper/pull/4991): fix(git-commit): skip conventional commit prefixes when linting
-<!-- vitrin:birlesen:bitir -->
+<!-- profil:birlesen:bitir -->
 
 <!-- projeler:basla -->
 ## Projects
